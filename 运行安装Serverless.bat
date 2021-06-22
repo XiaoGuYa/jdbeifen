@@ -1,0 +1,1 @@
+npm install -g serverless --registry=https://registry.npm.taobao.org

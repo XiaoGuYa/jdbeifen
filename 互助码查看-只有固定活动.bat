@@ -1,0 +1,2 @@
+node jd_get_share_code.js
+pause
