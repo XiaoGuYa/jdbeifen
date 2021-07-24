@@ -36,6 +36,8 @@
     "0 0 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "2 0 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "2 0 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "2 0 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jd_speed_sign.js, tag=京东极速版签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "1 7 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/master/jd_nh.js, tag=京东年货节, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
   ]
 }
