@@ -2,6 +2,7 @@
   "name": "JD",
   "description": "京东签到",
   "task": [
+    "0 0,12 * * * https://raw.githubusercontent.com/XiaoGuYa/jdbeifen/main/jd_red.js, tag=双十一无门槛红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", 
     "5 0 * * * https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_ccSign.js, tag=京东领券中心签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", 
     "0 0 * * * https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true", 
     "2 8,12,18 * * * https://raw.githubusercontent.com/zero205/JD_tencent_scf/main/jd_bookshop.js, tag=口袋书店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",  
